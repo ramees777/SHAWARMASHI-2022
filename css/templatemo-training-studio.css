@@ -250,7 +250,8 @@ body {
   display: inline-block;
   font-size: 15px;
   padding: 12px 20px;
-  background-color: #ed563b;
+  background-color: transparent;
+  border: 2px solid #ffffff; /* Green */
   color: #fff;
   text-align: center;
   font-weight: 400;
@@ -259,7 +260,7 @@ body {
 }
 
 .main-button a:hover {
-  background-color: #f9735b;
+  background-color: #9a0000;
 }
 
 /* 
@@ -709,19 +710,19 @@ banner
   letter-spacing: 0.5px;
 }
 
-.main-banner .caption h2 {
+.main-banner .caption h3 {
   margin-top: 30px;
   margin-bottom: 25px;
-  font-size: 84px;
+  font-size: 45px;
   text-transform: uppercase;
   font-weight: 800;
   color: #fff;
   letter-spacing: 1px;
 }
 
-.main-banner .caption h2 em {
+.main-banner .caption h3 em {
   font-style: normal;
-  color: #ed563b;
+  color: #9a0000;
   font-weight: 900;
 }
 
