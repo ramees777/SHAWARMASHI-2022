@@ -548,3 +548,30 @@ h6,
    background-color: rgb(199, 0, 0);
   text: white;
 } */
+
+/* .tabs-content {
+  margin-left: 30px;
+  text-align: left;
+  display: inline-block;
+  transition: all 0.3s;
+}
+.tabs-content img {
+  max-width: 100%;
+  overflow: hidden;
+  border-radius: 5px;
+} */
+.tab-content p {
+  font-size: 30px;
+  font-weight: 700;
+  color: #ffffff;
+}
+/* .tabs-content p {
+  font-size: 14px;
+  color: #7a7a7a;
+  margin-bottom: 28px;
+} */
+.s-tab {
+  font-size: 18px;
+  font-weight: 700;
+  color: #ffffff;
+}
